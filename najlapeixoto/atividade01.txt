@@ -1,0 +1,12 @@
+1º É um sistema de controle de versão de arquivos.
+    Definição do Github: É um serviço web que oferece diversas funcionalidades extras aplicadas
+ao git. Você poderá usar gratuitamente o github para hospedar seus projetos pessoais. 
+
+2º Pude notar que o git não estava instalado no meu computador, sendo assim tive que executar o
+comando “sudo apt get install git” 
+Após a instalação, com o comando “ls” pude notar que foi acrescentado o repositório “peixoto”
+na área de trabalho.
+
+3º 
+
+4º Seu branch foi atualizado na origem.
