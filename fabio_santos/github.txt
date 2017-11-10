@@ -1,3 +1,3 @@
 1- Git é um sistema de controle de arquivo. Github é um servidor web, onde podemos criar uma conta a guardar arquivos.
 2- O que tem de diferente é que agora estou acessando o meio diretorio que criei no servidor web.
-3- Branch um comando para transferencia de arquivo. Para transferir arquivos para outro diretorio. Dijitar o comando git checkout e o nome do branch
+3- Branch um comando para transferencia de arquivo. Para transferir arquivos para outro diretorio. Dijitar o comando git checkout e o nome do branch...
