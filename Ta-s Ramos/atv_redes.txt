@@ -1,0 +1,8 @@
+1) R= É um sistema de controle de versão de arquivos. Cria projetos, edita e cria arquivos. 
+github é um serviço web que oferece diversas funcionalidades extras aplicadas ao git.
+
+2) R= A possibilidade de enviar email, adicionar multipos arquivos entre outros.
+
+3) R= Um branch no git é um leve ponteiro movel para um commit. Para enviar arquivos. Para o master. Trocaria o nome.
+
+4) R= Quando as mensagens são diferentes.
