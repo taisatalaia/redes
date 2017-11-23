@@ -1,0 +1,6 @@
+(Parte 1)
+(1) 802.11   1-PHY type: 802.11b (4) 2-channel: 11  3-Data rate: 1,0 Mb/s   1 é importante porque especifica o tipo do PHY o 2 especifica qual o canal e o  3 especifica qual a taxa de dados.
+
+(Parte 2)
+(1) A cobertura celular de todas as áreas não estava bem.interrupções significativas, deixando dezenas de milhares de pessoas sem serviço telefonico.
+(2) Small Cells = são pequenas antenas usadas para ampliar o sinal da rede de celular, são importantes pois são responsáveis pela comunicação, tanto de voz quanto de dados, dos dispositivos moveis. A tecnologia 5G também será de suma importância, é fundamental para ligar tudo o que esta a nossa volta e alimentar continuamente o ciclo virtuoso de crescimento da indústria. Possui flexibilidade, altíssima capacidade e aplicações inovadoras- Internet táctil ,IOT e M2M.
