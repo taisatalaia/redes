@@ -1,7 +1,0 @@
-Respostas
-1)	O RADIUS, Remote Authentication Dial In User Service, é um protocolo amplamente utilizado para gerenciar o acesso dos mais diversos serviços de rede. Este protocolo define um padrão para troca de informações entre um Servidor de acesso à rede (NAS, Network Access Server) e um servidor AAA para realizar a autenticação, a autorização e as operações de gerenciamento de contas. 
-2)	 RFC(Request for Comments  ( "pedido de comentários")). São documentos técnicos desenvolvidos e mantidos pelo IETF (Internet Engineering Task Force), instituição que especifica os padrões que serão implementados e utilizados em toda a internet.
-Cada um deles deve detalhar o funcionamento de todos os aspectos do protocolo proposto. A RFC 3286, por exemplo, possui todas as especificações necessárias para a implementação do controle de fluxo de dados, também conhecido como streaming, e assim permitir que sites como o Youtube, Vimeo e DailyMotion funcionem.
-Stephen D. Crocker (Pasadena, Califórnia, Estados Unidos, 15 de outubro de 1944) é o inventor da série Request for Comments (RFC), autor da primeira RFC.
-3)	Http , Browser  e Web.
-4)	Ambos precisam de um protocolo para fazer a transferência de mensagens.
