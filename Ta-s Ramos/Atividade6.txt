@@ -1,0 +1,15 @@
+Questao 6
+
+1.1) R= Aprendir achar o endereço de mac de um ap,a achar o sinal,capturar arquivos com a interface, a quebrar senhas fracas entre outros.
+
+1.2) R= As mensagens obitidas são como desafios de um ap até o celular , as mensagens são transmitidas através de códigos mais nunca enviando a senha.
+
+1.3) R= Atravéz do aireplay-ng e depois executar este comando;  - -deauth count : desautenticar 1 ou todas as estações (-0).
+
+1.4) R= Usar senhas mais fortes com caracteres alternados e que começem com a numeração depois do número 8.
+
+
+2.1) R= Este processo faz com que eu ataque uma vitima e ao mesmo tempo seja uma vitma do meu atacante. Porem eu posso ter acesso ao site que ele entra e se ele por senha também saberei a sua senha.
+
+
+2.2) R=Há diversas formas de evitar este tipo de ataque, para quem possui uma rede com equipamentos Cisco pode ativar o DSNIFF por exemplo, ou implantar uma solução Open Source ArpON( Arp  handler inspectiON ) porém no mercado há diversas soluções/equipamentos que oferecem ótimos recursos para bloquear este tipo de ataque.
