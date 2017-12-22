@@ -1,0 +1,9 @@
+1) R=  Depois de feita a troca do caracter pelo número da porta do http, no comnado ...e depois  de ter tentado acessar o meu ip de novo não conseguir, pois bloqueia se o acesso.
+
+2) R= Atravéz do telnet eu observei que a minha porta esta bloqueada. Ele da uma mensagem informando que Não foi possível conectar-se ao host que a conecxao expirou. Muito massa.
+
+3) R= Eu conseguir acessar o not do meu colega e ele o meu atravéz do acesso remoto.
+
+4) R= O telnet é um programa que , para  um usuário acessar o poder de processamento do computador remoto , o programa Telnet precisa enviar os detalhes da conta do usuário através da rede, ou na Internet, o telnet também não têm quaisquer procedimentos de criptografia e assim esses dados sensíveis é enviado como texto simples. Já o SSH executa as mesmas funções que o Telnet, mas ele criptografa todas as suas comunicações entre o computador local e o computador remoto, apesar de sua vantagem de segurança sobre telnet.
+
+5) R= Ele travou a conecxão do meu colega.
